@@ -6,8 +6,9 @@ Es un taller breve y elemental de lo que se debe conocer dentro de MATLAB. Prese
 
 ## Temario
 1. Introducción al taller
-a. ¿Por qué usar MATLAB?
-b. Guía rápida para utilizar GitHub
+
+	a. ¿Por qué usar MATLAB?
+	b. Guía rápida para utilizar GitHub
 
 2. Comandos
 	a. Ingresar comandos
