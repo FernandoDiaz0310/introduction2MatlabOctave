@@ -21,42 +21,42 @@ Es un taller breve y elemental de lo que se debe conocer dentro de MATLAB. Prese
 	- Scripts VS. Live scripts
 
 4. Vectores y matrices
-	a. Ingresar arreglos manualmente
-	b. Crear vectores linealmente espaciados
-	c. Funciones de creación de arreglos
+	- Ingresar arreglos manualmente
+	- Crear vectores linealmente espaciados
+	- Funciones de creación de arreglos
 
 5. Indexación y modificación de arreglos
-	a. Indexar arreglos
-	b. Extraer múltiples elementos
-	c. Cambiar valores en arreglos
+	- Indexar arreglos
+	- Extraer múltiples elementos
+	- Cambiar valores en arreglos
 
 6. Cálculos en arreglos
-	a. Realizar operaciones de matriz en vectores
+	- Realizar operaciones de matriz en vectores
 
 7. Llamar funciones
-	a. Obtener múltiples salidas de llamadas a funciones
+	- Obtener múltiples salidas de llamadas a funciones
 
 8. Obtener ayuda
-	a. Funciones de ayuda
-	b. Documentación
+	- Funciones de ayuda
+	- Documentación
 
 9. Gráficos
-	a. Graficar vectores
-	b. Añadir anotaciones
+	- Graficar vectores
+	- Añadir anotaciones
 
 10. Importar información
-	a. Funciones de importación
-	b. Funciones de exportación
-	c. Herramienta de importación
+	- Funciones de importación
+	- Funciones de exportación
+	- Herramienta de importación
 
 11. Arreglos lógicos
-	a. Valores lógicos
-	b. Indexación lógica
+	- Valores lógicos
+	- Indexación lógica
 
 12. Estructuras de control
-	a. Estructuras de selección
-	b. Entrada definida por el usuario
-	c. Estructura de repetición
+	- Estructuras de selección
+	- Entrada definida por el usuario
+	- Estructura de repetición
 
 13. Proyectos básicos de aplicación
 
