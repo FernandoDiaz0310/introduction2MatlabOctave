@@ -6,20 +6,19 @@ Es un taller breve y elemental de lo que se debe conocer dentro de MATLAB. Prese
 
 ## Temario
 1. Introducción al taller
-
-	a. ¿Por qué usar MATLAB?
-	b. Guía rápida para utilizar GitHub
+	- ¿Por qué usar MATLAB?
+	- Guía rápida para utilizar GitHub
 
 2. Comandos
-	a. Ingresar comandos
-	b. Nombrar variables
-	c. Guardar y cargar variables
-	d. Usar funciones internas y constantes
+	- Ingresar comandos
+	- Nombrar variables
+	- Guardar y cargar variables
+	- Usar funciones internas y constantes
 
 3. MATLAB Editor
-	a. MATLAB Editor
-	b. Compilar scripts
-	c. Scripts VS. Live scripts
+	- MATLAB Editor
+	- Compilar scripts
+	- Scripts VS. Live scripts
 
 4. Vectores y matrices
 	a. Ingresar arreglos manualmente
