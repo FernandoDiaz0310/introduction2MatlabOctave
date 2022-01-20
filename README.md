@@ -1,8 +1,8 @@
-# Taller de introducción a MATLAB
+# Taller de introducción a MATLAB/Octave
 
-Este repositorio tiene como finalidad apoyar al taller de introducción a MATLAB.
+Este repositorio tiene como finalidad apoyar al taller de introducción a MATLAB/Octave.
 
-Es un taller breve y elemental de lo que se debe conocer dentro de MATLAB. Presenta los conceptos esenciales para posteriormente avanzar con los todos fundamentos de MATLAB y avanzar a técnicas de programación.
+Es un taller breve y elemental de lo que se debe conocer dentro de MATLAB/Octave. Presenta los conceptos esenciales para posteriormente avanzar y profundizar los fundamentos de MATLAB/Octave, para después continuar a técnicas de programación.
 
 ## Temario
 1. Introducción al taller
