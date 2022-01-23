@@ -1,0 +1,32 @@
+# Created by Octave 6.4.0, Sat Jan 22 17:27:42 2022 GMT <unknown@IsaccASUS>
+# name: f
+# type: function handle
+@<anonymous>
+@(x, y) sin (x) .* cos (y) + 1
+
+
+# name: g
+# type: function handle
+@<anonymous>
+@(x, y) x .^ 2 - exp (2 * x)
+
+
+# name: miSist
+# type: function handle
+@<anonymous>
+@(w) [f(w (1), w (2)); g(w (1), w (2))]
+# length: 2
+# name: f
+# type: function handle
+@<anonymous>
+@(x, y) sin (x) .* cos (y) + 1
+
+
+# name: g
+# type: function handle
+@<anonymous>
+@(x, y) x .^ 2 - exp (2 * x)
+
+
+
+
