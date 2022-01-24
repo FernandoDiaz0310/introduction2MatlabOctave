@@ -58,7 +58,7 @@ Es un taller breve y elemental de lo que se debe conocer dentro de MATLAB/Octave
 	- Entrada definida por el usuario
 	- Estructura de repetición
 
-13. Proyectos básicos de aplicación
+13. Proyecto básico de aplicación
 
 ## Importante
 Este taller está basado en el curso gratuito **MATLAB Onramp** de [MathWorks](http://mathworks.com "MathWorks"). No obstante, se omitieron ciertos detalles y agregaron otros que se consideraron necesarios.
